@@ -363,6 +363,31 @@ ad-material-diagnostic/
 
 ---
 
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/BernaLiuDev">
+        <img src="https://avatars.githubusercontent.com/u/13982486?v=4" width="80px;" alt="Berna"/><br />
+        <sub><b>Berna</b></sub>
+      </a><br />
+      <sub>🧠 需求设计 · 📐 诊断框架 · 📊 业务逻辑</sub>
+    </td>
+    <td align="center">
+      <a href="https://claude.ai">
+        <img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="80px;" alt="Claude"/><br />
+        <sub><b>Claude Opus 4.6</b></sub>
+      </a><br />
+      <sub>💻 Skill 编写 · 🏗 架构实现 · 📝 文档生成</sub>
+    </td>
+  </tr>
+</table>
+
+> 本项目由 **Berna** 提供核心业务方法论与诊断框架设计，**Claude** 负责 Skill 代码编写与文档架构实现，双方协作完成。
+
+---
+
 ## 📄 License
 
 MIT License
